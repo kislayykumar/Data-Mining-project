@@ -1,2 +1,4 @@
 # Data-Mining-project
 This repository contain the project related to data mining
+
+The globe has been frequently threatened by pandemics over the past few years, thus the effects of these pandemics have always had a significant impact on it. The present devastating pandemic is also currently running its course throughout the world. Not only are economies collapsing, but the general well-being and morals of the severely affected countries are also at risk. Understanding the covid-19 virus's natural progression is crucial for making precise and effective forecasts. New understandings regarding the validity of the designed and validated prediction models are revealed as the COVID-19 pandemic develops and more data is gathered; nonetheless, projecting the pandemic's future requires open reporting and multiple model evaluations.
